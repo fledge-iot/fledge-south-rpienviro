@@ -37,7 +37,8 @@ _DEFAULT_CONFIG = {
         'type': 'string',
         'default': 'e_',
         'order': '2',
-        'displayName': 'Asset Name Prefix'
+        'displayName': 'Asset Name Prefix',
+        'mandatory': 'true'
     },
     'rgbSensor': {
         'description': 'Enable RGB sensor',
