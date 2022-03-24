@@ -28,7 +28,7 @@ To create a south service with the Enviro pHAT
 
   - Click on *South* in the left hand menu bar
 
-  - Select *envirophat* from the plugin list
+  - Select *rpienviro* from the plugin list
 
   - Name your service and click *Next*
 
