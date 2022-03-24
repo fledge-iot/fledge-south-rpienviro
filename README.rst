@@ -1,5 +1,5 @@
-fledge-south-envirophat
-========================
+fledge-south-rpienviro
+======================
 
 South Plugin for Raspberry PI EnviroPHAT
 
