@@ -19,8 +19,8 @@ try:
 except FileNotFoundError:
     _LOGGER.error("Ensure i2c is enabled on the Pi and other dependencies are installed correctly!")
 
-__author__ = "Ashwin Gopalakrishnan, Amarendra K Sinha"
-__copyright__ = "Copyright (c) 2018 Dianomic Systems"
+__author__ = "Ashwin Gopalakrishnan, Amarendra K Sinha, Ashish Jabble"
+__copyright__ = "Copyright (c) 2022 Dianomic Systems Inc."
 __license__ = "Apache 2.0"
 __version__ = "${VERSION}"
 
@@ -28,7 +28,7 @@ _DEFAULT_CONFIG = {
     'plugin': {
         'description': 'Enviro pHAT Poll Plugin',
         'type': 'string',
-        'default': 'envirophat',
+        'default': 'rpienviro',
         'readonly': 'true'
     },
     'assetNamePrefix': {

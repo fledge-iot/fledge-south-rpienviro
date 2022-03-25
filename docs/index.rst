@@ -8,7 +8,7 @@ Enviro pHAT Plugin
 .. image:: images/envirophat_1.jpg
    :align: right
 
-The *fledge-south-envirophat* is a plugin that uses the Pimoroni Enviro pHAT sensor board. The Enviro pHAT board is an environmental sensing board populated with multiple sensors, the plugin pulls data from the;
+The *fledge-south-rpienviro* is a plugin that uses the Pimoroni Enviro pHAT sensor board. The Enviro pHAT board is an environmental sensing board populated with multiple sensors, the plugin pulls data from the;
 
   - RGB light sensor
 
@@ -28,7 +28,7 @@ To create a south service with the Enviro pHAT
 
   - Click on *South* in the left hand menu bar
 
-  - Select *envirophat* from the plugin list
+  - Select *rpienviro* from the plugin list
 
   - Name your service and click *Next*
 
