@@ -108,7 +108,7 @@ def plugin_info():
 
     return {
         'name': 'Enviro pHAT Poll Plugin',
-        'version': '2.0.1',
+        'version': '2.1.0',
         'mode': 'poll',
         'type': 'south',
         'interface': '1.0',
